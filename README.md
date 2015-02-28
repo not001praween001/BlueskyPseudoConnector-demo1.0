@@ -14,7 +14,9 @@ Getting Start
   
 - **Create the edAccessToken**
   ```shell
-  java EDAccessToken [Input your token key do you want to set]
+  # The token message will be encrypted. 
+  # Do not use it same as the password of the front site account.
+  java EDAccessToken [Input your token message do you want to set]
   cd ..
   ```
   
