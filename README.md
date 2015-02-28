@@ -11,14 +11,17 @@ Getting Start
   git clone https://github.com/not001praween001/BlueskyPseudoConnector-demo1.0.git
   cd BlueskyPseudoConnector-demo1.0/bin
   ```
+  
 - **Create the edAccessToken**
   ```shell
   java EDAccessToken [Input your token key do you want to set]
   cd ..
   ```
+  
 - **Test the connector**
   ```shell
   ./test.sh
   ```
+  
   ***Author***: *Praween AMONTAMAVUT*
   
