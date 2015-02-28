@@ -1,5 +1,4 @@
-# BlueskyPseudoConnector-demo1.0
-Blue-sky cloud connector
+Blue-sky cloud connector (Demo v. 1.0)
 ================================
 This is the connector of Blue-sky cloud server. You can use this one to implement your embedded device connect the Blue-sky cloud server at your local network.
 
