@@ -8,7 +8,7 @@ The connector uses the Blue-sky connecting wrapping protocol. It is optimized co
 
 Getting Start
 -------------
-- **Clone the git to your embedded device**
+- **Clone the git to your embedded devices(ED)**
   ```shell
   git clone https://github.com/not001praween001/BlueskyPseudoConnector-demo1.0.git
   cd BlueskyPseudoConnector-demo1.0/bin
